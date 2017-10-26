@@ -13,3 +13,4 @@
 * [Check Multiple Boxes](https://ritikpatni.me/JavaScript30/09-CheckMultiple)
 * [Dev Tools](https://ritikpatni.me/JavaScript30/10-DevTools)
 * [Video Player](https://ritikpatni.me/JavaScript30/11-VideoPlayer)
+* [KONAMI CODE](https://ritikpatni.me/JavaScript30/12-KeySequenceDetection)
