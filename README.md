@@ -16,4 +16,6 @@
 * [KONAMI CODE](https://ritikpatni.me/JavaScript30/12-KeySequenceDetection)
 * [Slide In On Scroll](https://ritikpatni.me/JavaScript30/13-SlideScroll)
 * [JavaScript Copy Array](https://ritikpatni.me/JavaScript30/14-JavaScriptVSCopy)
+* [Local Storage](https://ritikpatni.me/JavaScript30/15-LocalStorage)
+
 
