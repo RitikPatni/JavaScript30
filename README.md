@@ -17,5 +17,6 @@
 * [Slide In On Scroll](https://ritikpatni.me/JavaScript30/13-SlideScroll)
 * [JavaScript Copy Array](https://ritikpatni.me/JavaScript30/14-JavaScriptVSCopy)
 * [Local Storage](https://ritikpatni.me/JavaScript30/15-LocalStorage)
+* [Mouse Shadow](https://ritikpatni.me/JavaScript-30/16-MouseShadow)
 
 
