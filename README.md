@@ -19,3 +19,4 @@
 * [Local Storage](https://ritikpatni.me/JavaScript30/15-LocalStorage)
 * [Mouse Shadow](https://ritikpatni.me/JavaScript-30/16-MouseShadow)
 * [Sort Without Array](https://ritikpatni.me/JavaScript-30/16-SortWithoutArray)
+* [Adding Up Time](https://ritikpatni.me/JavaScript-30/18-AddingUpTime)
